@@ -1,0 +1,143 @@
+MISSIONOBJ:JAWU_OBJECTIVE_1
+"派遣潜入部队，占领日军将军刽子手"
+END
+
+MISSIONOBJ:JAWU_KillJiangJunGuiZiShou
+"日军远程操控了将军刽子手，阻止它攻击旅顺！"
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_2
+"必须守住威海城"
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_3
+"必须守住旅顺城"
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_5
+"登上'定远号'战列舰 北洋舰队 舰长：刘步蟾 "
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_6
+"登上'镇远号'战列舰 北洋舰队 舰长：林泰曾 "
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_7
+"登上'经远号'战列舰 北洋舰队 舰长：林永升 "
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_8
+"登上'来远号'战列舰 北洋舰队 舰长：邱宝仁 "
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_9
+"登上'致远号'战列舰 北洋舰队 舰长：邓世昌 "
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_10
+"摧毁天皇御驾亲征的新式鬼王x机甲"
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_11
+"摧毁日本联合舰队指挥中心"
+END
+
+MISSIONOBJ:JAWU_FirstFleet_1
+"击沉'吉野号'战舰 第一游击队 舰长：河原要一"
+END
+
+MISSIONOBJ:JAWU_FirstFleet_2
+"击沉'高千穗'战舰 第一游击队 舰长：野村贞"
+END
+
+MISSIONOBJ:JAWU_FirstFleet_3
+"击沉'秋津洲'战舰 第一游击队 舰长：上村彦之丞"
+END
+
+MISSIONOBJ:JAWU_FirstFleet_4
+"击沉'浪速'战舰 第一游击队 舰长：东乡平八郎"
+END
+
+MISSIONOBJ:JAWU_SecondFleet_1
+"击沉'松岛号'战列旗舰 日本队第一群阵 舰长：尾本知道"
+END
+
+MISSIONOBJ:JAWU_SecondFleet_2
+"击沉'严岛号'战列舰 日本队第一群阵 舰长：横尾道昱"
+END
+
+MISSIONOBJ:JAWU_SecondFleet_3
+"击沉'千代田'战列舰 日本队第一群阵 舰长：内田正敏"
+END
+
+MISSIONOBJ:JAWU_SecondFleet_4
+"击沉'桥立'战列舰 日本队第一群阵 舰长：日高壮之丞"
+END
+
+MISSIONOBJ:JAWU_ThirdFleet_1
+"击沉'福岛号'旗舰要塞 天皇座驾 舰长：王子达朗"
+END
+
+MISSIONOBJ:JAWU_ThirdFleet_2
+"击沉'比睿号'战列舰 日本队第二群阵 舰长：樱井规矩之左右"
+END
+
+MISSIONOBJ:JAWU_ThirdFleet_3
+"击沉'扶桑'战列舰 日本队第二群阵 舰长：新井有贡"
+END
+
+MISSIONOBJ:JAWU_ThirdFleet_4
+"击沉'西京丸'战列舰 日本队左侧 舰长：鹿野勇之进"
+END
+
+MISSIONOBJ:JAWU_ThirdFleet_5
+"击沉'赤城'战列舰 日本队左侧 舰长：坂元八太郎"
+END
+
+MISSIONOBJ:JAWU_OBJECTIVE_17
+"天皇身边已无人保护，消灭天皇！"
+END
+
+SCRIPT:tips_01
+"指挥官们，欢迎来到甲午中日海战！"
+END
+
+SCRIPT:tips_02
+"我们主要的任务是防卫威海和旅顺，如果这两座城沦陷，游戏就结束了。"
+END
+
+SCRIPT:tips_03
+"同时击沉来袭的日本联合舰队，摧毁日军的指挥所。"
+END
+
+SCRIPT:tips_04
+"明智调度您的部队，坚持到北洋舰队抵达。"
+END
+
+SCRIPT:tips_05
+"最后，祝您玩的愉快！"
+END
+
+SCRIPT:tips_06
+"map designed by dianjuge, wffg, yourhigherness, lclc"
+END
+
+SCRIPT:JAWU_firstjapanshipfleet
+"日本游击舰队抵达: "
+END
+
+SCRIPT:JAWU_secondjapanshipfleet
+"日本第一舰队抵达: "
+END
+
+SCRIPT:JAWU_thirdjapanshipfleet
+"日本第二舰队抵达: "
+END
+
+SCRIPT:JAWU_beiYangshipfleet
+"支撑到北洋舰队抵达: "
+END
+
+SCRIPT:JAWU_japanKingEnable
+"实验级将军刽子手启动: "
+END
